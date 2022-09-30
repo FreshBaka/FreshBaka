@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @FreshBaka
-- 👀 I’m interested in ... sex
-- 🌱 I’m currently learning ... sex 
-- 💞️ I’m looking to collaborate on ... sex
-- 📫 How to reach me ... sex
+
 
 <!---
 FreshBaka/FreshBaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
